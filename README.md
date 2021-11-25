@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbouabidiMouadh
-- 👀 I’m interested in ComputerScience , deep learning and artifical intelligence
+- 👀 I’m interested in ComputerScience , DeepLearning and AI
 - 🌱 I’m currently learning python libraries
 - 📫 How to reach me albouabidimouadh@gmail.com
 
