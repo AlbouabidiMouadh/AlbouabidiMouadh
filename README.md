@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbouabidiMouadh
 - 👀 I’m interested in ComputerScience , Web Development and AI
-- 🌱 I’m currently learning Web Development frameworks, python libraries
+- 🌱 I’m currently learning Deep Learning, Neural Networks
 - 📫 How to reach me albouabidimouadh@gmail.com
 
 <!---
