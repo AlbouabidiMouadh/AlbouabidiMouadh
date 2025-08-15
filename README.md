@@ -4,7 +4,7 @@
 🚀 Building scalable apps, AI tools & full-stack platforms  
 
 📧 Email: albouabidimouadh@gmail.com  
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/albouabidimouadh)
 
 ---
 
