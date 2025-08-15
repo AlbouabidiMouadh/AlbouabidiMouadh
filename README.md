@@ -3,7 +3,7 @@
 💻 Full-Stack & AI Developer | React, Next.js, Node.js, Spring Boot, Flask, Machine Learning  
 🚀 Building scalable apps, AI tools & full-stack platforms  
 
-📧 Email: mouadh@example.com  
+📧 Email: albouabidimouadh@gmail.com  
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
