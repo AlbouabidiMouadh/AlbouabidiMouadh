@@ -25,11 +25,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
 
 ---
-
-#### 📌 Pinned Projects
-- [Full-Stack E-Commerce Platform](https://github.com/AlbouabidiMouadh/ecommerce-platform)
-- [React Native Social Networking App](https://github.com/AlbouabidiMouadh/social-network-app)
-- [AI-Powered Study Assistant](https://github.com/AlbouabidiMouadh/ai-study-assistant)
-- [Real-Time Collaborative Whiteboard](https://github.com/yourusername/collaborative-whiteboard)
-
----
